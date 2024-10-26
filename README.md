@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://images.app.goo.gl/7fkEMaFjT2xT4FJS9
+]
 <h1 align="center">Hi 👋, I'm pratyush ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
