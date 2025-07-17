@@ -12,16 +12,17 @@
 ### 🧠 Currently Learning
 
 - 🔥 MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
+- 🎯 Competitive Programming in cpp 
 - 🎯 Problem Solving with C++ and Data Structures
 - 📱 Exploring IoT with ESP32 + Arduino
-- ⚙️ AI & ML for Health Tech (Side Project)
+- ⚙️ AI for Health Tech (Side Project)
 
 ---
 
 ### 📫 Reach Me
 
 - Email: **pratyushhq321@gmail.com**
-- LinkedIn: *coming soon...*
+- LinkedIn: https://www.linkedin.com/in/pratyush-ghosh/
   
 ---
 
