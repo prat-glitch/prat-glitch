@@ -66,9 +66,8 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat-glitch&langs_count=10&layout=compact&hide=typescript&theme=github_dark" alt="Top Languages by prat-glitch" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat-glitch&layout=compact&theme=github_dark" />
 </p>
 
 
