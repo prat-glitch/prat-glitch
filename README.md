@@ -14,8 +14,6 @@
 - 🔥 MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
 - 🎯 Competitive Programming in cpp 
 - 🎯 Problem Solving with C++ and Data Structures
-- 📱 Exploring IoT with ESP32 + Arduino
-- ⚙️ AI for Health Tech (Side Project)
 
 ---
 
