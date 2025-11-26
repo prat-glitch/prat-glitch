@@ -67,8 +67,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat-glitch&layout=compact&theme=github_dark" />
+  <img src="https://gh-stats.vercel.app/api/top-langs?username=prat-glitch&layout=compact&theme=dark" />
 </p>
+
 
 
 ---
